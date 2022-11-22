@@ -1,0 +1,15 @@
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.csproj.AssemblyReference.cache
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.AssemblyInfoInputs.cache
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.AssemblyInfo.cs
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.csproj.CoreCompileInputs.cache
+/Users/denis/Desktop/Examples/Example005_/bin/Debug/net6.0/Example005_
+/Users/denis/Desktop/Examples/Example005_/bin/Debug/net6.0/Example005_.deps.json
+/Users/denis/Desktop/Examples/Example005_/bin/Debug/net6.0/Example005_.runtimeconfig.json
+/Users/denis/Desktop/Examples/Example005_/bin/Debug/net6.0/Example005_.dll
+/Users/denis/Desktop/Examples/Example005_/bin/Debug/net6.0/Example005_.pdb
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.dll
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/refint/Example005_.dll
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.pdb
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/Example005_.genruntimeconfig.cache
+/Users/denis/Desktop/Examples/Example005_/obj/Debug/net6.0/ref/Example005_.dll
